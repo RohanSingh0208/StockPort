@@ -1,4 +1,4 @@
-1. Portfolio Overview
+# 1. Portfolio Overview
 Displays the total value of the portfolio based on current stock prices.
 Shows a summary of gains or losses (both unrealized and realized).
 Breaks down the portfolio into categories (e.g., tech, healthcare, etc.) for better analysis.
